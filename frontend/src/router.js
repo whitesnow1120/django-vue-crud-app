@@ -7,7 +7,7 @@ export default new Router({
     routes: [
         {
             path: "/",
-            redirect: "/index"
+            redirect: '/index'
         },
         {
             path: "/create",
